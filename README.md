@@ -1,4 +1,4 @@
-Welcome to my Git tutorial.
+:heart: Welcome to my Git tutorial. :heart:
 
 ### [1. Getting Started](1.GettingStarted.md)
 ### [2. Basics](2.0.Basics.md)
@@ -8,3 +8,5 @@ Welcome to my Git tutorial.
 #### [2.4 Undoing Things](2.4.Undoing_Things.md)
 #### [2.5 Working with Remotes](2.5.Working_with_Remotes.md)
 #### [2.6 Tagging](2.6.Tagging.md)
+#### [2.7 Git Aliases](2.7.Git_Aliases.md)
+### [3. Git Branching](3.0.Git_Branching.md)
