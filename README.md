@@ -10,3 +10,7 @@
 #### [2.6 Tagging](2.6.Tagging.md)
 #### [2.7 Git Aliases](2.7.Git_Aliases.md)
 ### [3. Git Branching](3.0.Git_Branching.md)
+#### [3.1 Branches in Nutshell](3.1.Branches_in_Nutshell.md)
+#### [3.2 Basic Branching and Merging](3.2.Basic_Branching_and_Merging.md)
+#### [3.3 Branch Management](3.3.Branch_Management.md)
+#### [3.4 Branching Workflow](3.4.Branching_Workflows.md)
