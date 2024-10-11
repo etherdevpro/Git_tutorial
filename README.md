@@ -14,3 +14,4 @@
 #### [3.2 Basic Branching and Merging](3.2.Basic_Branching_and_Merging.md)
 #### [3.3 Branch Management](3.3.Branch_Management.md)
 #### [3.4 Branching Workflow](3.4.Branching_Workflows.md)
+#### [3.5 Remote Branches](3.5.Remote_Branches.md)
