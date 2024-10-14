@@ -16,3 +16,5 @@
 #### [3.4 Branching Workflow](3.4.Branching_Workflows.md)
 #### [3.5 Remote Branches](3.5.Remote_Branches.md)
 #### [3.6 Rebasing](3.6.Rebasing.md)
+
+#### Any Questions? Please contact me: etherjsdevpro@gmail.com
